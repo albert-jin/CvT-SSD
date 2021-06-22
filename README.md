@@ -1,3 +1,8 @@
+# 此仓库已停用,项目代码已移植到我的私有仓库,如需访问,请和我联系,联系方式:
+# The repo has been dropped and moved to my new github private repo ,if you wanna to get newest codes,please contact me by:
+## QQ email: 248390697@qq.com
+## Phone number in China(+86) -13040617148.
+
 # CvT-SSD
 
 ### code-website: *https://github.com/albert-jin/CvT-SSD*
